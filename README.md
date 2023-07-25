@@ -14,15 +14,13 @@ As a deployed web application the precourse study guide is available with no nee
 
 ## Usage
 
-Usage of the main web application page is straightforward in that the notes for each topic, presented as an unnumbered list, are immediately available to view.  To obtain the randomized suggestion of what to study first the user will need to open the console, which will appear to the side of the webpage when command+option+I (OS) or control+shift+I (Windows) is entered. When the console is open something like the screenshot below should be showing on the screen.
-
-![alt text](assets/images/Screenshotconsole.png)
+Usage of the main web application page is straightforward in that the notes for each topic, presented as an unnumbered list, are immediately available to view.  To obtain the randomized suggestion of what to study first the user will need to open the console, which will appear to the side of the webpage when command+option+I (OS) or control+shift+I (Windows) is entered. 
 
 ## Credits
 
 Karla Wubbenhorst was the sole creator of this precourse study guide.  Its creation was guided by nstructions set forth in the document Pre-Work: UTOR-VIRT-FSF-FT-07-2023-U-LOLC, copyrighted in 2022 by edX Boot Camps LLC. 7900 Harkins Rd Lanham, MD 20706 
 
-## Lice
+## License
 
 Licensed under the MIT license
 
