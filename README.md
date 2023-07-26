@@ -18,7 +18,7 @@ Usage of the main web application page is straightforward in that the notes for 
 
 ## Credits
 
-Karla Wubbenhorst was the sole creator of this precourse study guide.  Its creation was guided by nstructions set forth in the document Pre-Work: UTOR-VIRT-FSF-FT-07-2023-U-LOLC, copyrighted in 2022 by edX Boot Camps LLC. 7900 Harkins Rd Lanham, MD 20706 
+Karla Wubbenhorst was the sole creator of this precourse study guide.  Its creation was guided by instructions set forth in the document Pre-Work: UTOR-VIRT-FSF-FT-07-2023-U-LOLC, copyrighted in 2022 by edX Boot Camps LLC. 7900 Harkins Rd Lanham, MD 20706 
 
 ## License
 
